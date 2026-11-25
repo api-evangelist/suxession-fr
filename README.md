@@ -1,4 +1,4 @@
-# suxession-fr
+# Suxession
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,135 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-suxession-fr is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://suxession.fr/
+Suxession provides a comprehensive French inheritance tax simulation platform. It offers a free, confidential tool that models succession scenarios, accounting for various assets, marital regimes, donations, life insurance, and corporate holdings. Users can explore over 25 optimization levers, see detailed calculations traced to specific legal articles, and receive actionable recommendations to reduce inheritance taxes. The service is built on a proprietary legal engine covering the French Civil Code, Tax Code, and Commercial Code, ensuring accurate, transparent results for individuals and families.
+
+**Areas:** Company · Inheritance · Taxation · Finance · France · Simulation
+
+## Suxession on APIs.io
+
+Everything profiled for Suxession is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/suxession-fr/](https://apis.io/providers/suxession-fr/)** — or go straight to one of the APIs or properties below.
+
+### APIs (19)
+
+- [Suxession Account API](https://apis.io/apis/suxession-fr/suxession-fr-account-api/) — The Account API from Suxession — 2 operation(s) for account.
+- [Suxession Billing Portal API](https://apis.io/apis/suxession-fr/suxession-fr-billing-portal-api/) — The Billing Portal API from Suxession — 1 operation(s) for billing portal.
+- [Suxession Calcul API](https://apis.io/apis/suxession-fr/suxession-fr-calcul-api/) — The Calcul API from Suxession — 1 operation(s) for calcul.
+- [Suxession Check Partner Code API](https://apis.io/apis/suxession-fr/suxession-fr-check-partner-code-api/) — The Check Partner Code API from Suxession — 1 operation(s) for check partner code.
+- [Suxession Comparer API](https://apis.io/apis/suxession-fr/suxession-fr-comparer-api/) — The Comparer API from Suxession — 1 operation(s) for comparer.
+- [Suxession Consent API](https://apis.io/apis/suxession-fr/suxession-fr-consent-api/) — The Consent API from Suxession — 1 operation(s) for consent.
+- [Suxession Create Checkout Session Anonymous API](https://apis.io/apis/suxession-fr/suxession-fr-create-checkout-session-anonymous-api/) — The Create Checkout Session Anonymous API from Suxession — 1 operation(s) for create checkout session anonymous.
+- [Suxession Create Checkout Session API](https://apis.io/apis/suxession-fr/suxession-fr-create-checkout-session-api/) — The Create Checkout Session API from Suxession — 1 operation(s) for create checkout session.
+- [Suxession Export Strategie Pdf API](https://apis.io/apis/suxession-fr/suxession-fr-export-strategie-pdf-api/) — The Export Strategie Pdf API from Suxession — 1 operation(s) for export strategie pdf.
+- [Suxession Health API](https://apis.io/apis/suxession-fr/suxession-fr-health-api/) — The Health API from Suxession — 1 operation(s) for health.
+- [Suxession Ingest API](https://apis.io/apis/suxession-fr/suxession-fr-ingest-api/) — The Ingest API from Suxession — 1 operation(s) for ingest.
+- [Suxession MCP API](https://apis.io/apis/suxession-fr/suxession-fr-mcp-api/) — The mcp API from Suxession — 3 operation(s) for mcp.
+- [Suxession Optimiser API](https://apis.io/apis/suxession-fr/suxession-fr-optimiser-api/) — The Optimiser API from Suxession — 1 operation(s) for optimiser.
+- [Suxession Rapport Pdf API](https://apis.io/apis/suxession-fr/suxession-fr-rapport-pdf-api/) — The Rapport Pdf API from Suxession — 1 operation(s) for rapport pdf.
+- [Suxession Scenarios API](https://apis.io/apis/suxession-fr/suxession-fr-scenarios-api/) — The Scenarios API from Suxession — 1 operation(s) for scenarios.
+- [Suxession Session API](https://apis.io/apis/suxession-fr/suxession-fr-session-api/) — The Session API from Suxession — 1 operation(s) for session.
+- [Suxession Simulations API](https://apis.io/apis/suxession-fr/suxession-fr-simulations-api/) — The Simulations API from Suxession — 2 operation(s) for simulations.
+- [Suxession Temporal Horizons API](https://apis.io/apis/suxession-fr/suxession-fr-temporal-horizons-api/) — The Temporal Horizons API from Suxession — 1 operation(s) for temporal horizons.
+- [Suxession Webhooks API](https://apis.io/apis/suxession-fr/suxession-fr-webhooks-api/) — The Webhooks API from Suxession — 1 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Suxession Agentic Access](https://apis.io/agentic-access/suxession-fr/suxession-fr-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CalculRequest](https://apis.io/schemas/suxession-fr/suxession-fr-calcul-request/)
+- [CalculResponse](https://apis.io/schemas/suxession-fr/suxession-fr-calcul-response/)
+- [ComparateurRequest](https://apis.io/schemas/suxession-fr/suxession-fr-comparateur-request/)
+- [OptimiserResponse](https://apis.io/schemas/suxession-fr/suxession-fr-optimiser-response/)
+- [StrategieExportRequest](https://apis.io/schemas/suxession-fr/suxession-fr-strategie-export-request/)
+- [TemporalHorizonsResponse](https://apis.io/schemas/suxession-fr/suxession-fr-temporal-horizons-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Suxession Fr Context](https://apis.io/jsonld/suxession-fr/suxession-fr-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Suxession API Rules](https://apis.io/rules/suxession-fr/suxession-fr-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Suxession Domain Security](https://apis.io/security/suxession-fr/suxession-fr-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://suxession.fr/)
+- [Documentation](https://suxession.fr/guide/)
+- [Getting started](https://suxession.fr/guide/optimisation/module-optimisation/)
+
+## API Evangelist rating
+
+**Kin Score 30.6** — thin · rubric 0.28.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 52.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 30.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 4.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/suxession-fr/](https://apis.io/providers/suxession-fr/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Suxession: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/suxession-fr/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
